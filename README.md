@@ -10,10 +10,16 @@
 | DC Motor | Pending     |                             |
 | Gear     | Pending     |                             |
 
-### Tools Used:
+### Focus Areas
+- Blender metric system
+- Precision scaling and measurements
+- Mechanical modeling workflow
+- Clean topology and proportions
+
+### Tools Used
 - Blender 5.1.0
 - Unit System: Metric (Millimeters)
 
-### References:
+### References
 - NEMA 17 Stepper Motor diagram
-- GT3 Timing Pulley diagram
+- GT3 Timing Pulley reference
