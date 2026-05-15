@@ -5,7 +5,7 @@
 ### Models Completed: 
 | Model    | Status      | Dimensions                  |
 |----------|-------------|-----------------------------|
-| Shaft    |    Done     | Diameter: 5mm, Length: 24mm |
+| Shaft    | Completed   | Diameter: 5mm, Length: 24mm |
 | Pulley   | In Progress |                             |
 | DC Motor | Pending     |                             |
 | Gear     | Pending     |                             |
