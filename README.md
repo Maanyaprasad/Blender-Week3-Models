@@ -3,12 +3,12 @@
 ## Week 3 Task: Mechanical Components
 
 ### Models Completed: 
-| Model    | Status      | Dimensions                                                                              |
-|----------|-------------|-----------------------------------------------------------------------------------------|
-| Shaft    | Completed   | Diameter: 5mm, Length: 24mm                                                             |
-| Pulley   | In Progress | Base pulley structure and initial tooth detailing completed using GT3-20-5-6W reference |
-| DC Motor | Pending     | -                                                                                       |
-| Gear     | Pending     | -                                                                                       |
+| Model    | Status      | Dimensions                                                                                 |
+|----------|-------------|--------------------------------------------------------------------------------------------|
+| Shaft    | Completed   | Diameter: 5mm, Length: 24mm                                                                |
+| Pulley   | Completed   | GT3-20-5-6W Pulley — OD: 22.30mm, Width: 7mm, Tooth Width: 6.90mm, Bore: 5mm, M3 Set Screw |
+| DC Motor | Pending     | -                                                                                          |
+| Gear     | In Progress | Spur Gear modeling started using NEMA 17 reference dimensions                              |
 
 ### Focus Areas
 - Blender metric system
@@ -23,9 +23,12 @@
 ### References
 - NEMA 17 Stepper Motor diagram
 - GT3-20-5-6W Pulley reference model
+- Spur Gear reference diagram
  
 ### Current Progress
 - Improved shaft proportions and mechanical detailing
-- Started pulley base modeling and initial tooth structure
+- Completed GT3 pulley modeling with tooth structure and mounting screw detail
 - Practicing Blender precision modeling workflow
+- Started spur gear precision modeling using NEMA 17 mechanical reference workflow
+- Continuing refinement of tooth proportions and overall gear accuracy using metric measurements
 - Using orthographic views and metric measurements for better accuracy
